@@ -71,7 +71,7 @@ func main() {
 		}
 		switch update.Message.Text {
 		case "Привет":
-			reply = "Ну привет :)"
+			reply = "Ну привет, как дела?)"
 		case "привет":
 			reply = "Дарова"
 		}
