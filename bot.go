@@ -70,7 +70,7 @@ func main() {
 			reply = cid
 		}
 		switch update.Message.Text {
-		case "Привет дружище":
+		case "Привет":
 			reply = "Ну привет :)"
 		case "привет":
 			reply = "Дарова"
